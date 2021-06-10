@@ -70,6 +70,6 @@ Sometimes I program 💻
  <img src="https://img.shields.io/badge/-MemphisDrums-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MemphisDrums"/>
 </a>
 <a href="https://www.youtube.com/user/MemphisDrums">
- <img src="https://img.shields.io/badge/-MemphisDrums-c14438?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MemphisDrums"/>
+ <img src="https://img.shields.io/badge/-MemphisDrums-CC0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MemphisDrums"/>
 </a>
 </p>
