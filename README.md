@@ -55,12 +55,21 @@ Sometimes I program 💻
 </p> 
 
 <h2 align="center">👋 Let's talk!</h2>
-
-<p align="center">
   
-<img src="https://img.shields.io/badge/-diegomarcher-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegomarcher/"/>
-<img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@marcher.com.yt"/>
-<img src="https://img.shields.io/badge/-Diego Marcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-marcher/"/>
-<img src="https://img.shields.io/badge/-MemphisDrums-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MemphisDrums"/>
-
+<p align = "center">
+<a href="https://www.instagram.com/diegomarcher/">
+  <img src="https://img.shields.io/badge/-diegomarcher-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegomarcher/"/>
+</a>
+<a href="mailto:diego@marcher.com.uy">
+  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@marcher.com.uy"/>
+</a>
+<a href="https://www.linkedin.com/in/diego-marcher/">
+  <img src="https://img.shields.io/badge/-Diego Marcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-marcher/"/>
+</a>
+<a href="https://twitter.com/MemphisDrums">
+ <img src="https://img.shields.io/badge/-MemphisDrums-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MemphisDrums"/>
+</a>
+<a href="https://www.youtube.com/user/MemphisDrums">
+ <img src="https://img.shields.io/badge/-MemphisDrums-c14438?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MemphisDrums"/>
+</a>
 </p>
