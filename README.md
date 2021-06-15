@@ -61,7 +61,7 @@ Sometimes I program 💻
   <img src="https://img.shields.io/badge/-diegomarcher-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegomarcher/"/>
 </a>
 <a href="mailto:diego@marcher.com.uy">
-  <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@marcher.com.uy"/>
+  <img src="https://img.shields.io/badge/-diego@marcher.com.uy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@marcher.com.uy"/>
 </a>
 <a href="https://www.linkedin.com/in/diego-marcher/">
   <img src="https://img.shields.io/badge/-Diego Marcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-marcher/"/>
