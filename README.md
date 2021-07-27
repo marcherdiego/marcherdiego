@@ -27,6 +27,7 @@ Sometimes I program 💻
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-java-F89820?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
