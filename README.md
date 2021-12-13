@@ -29,6 +29,10 @@ Sometimes I program 💻
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=F7DF1C&labelColor=%23000000&color=%23000000"/>
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown"/>
+  <img src="https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
