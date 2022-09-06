@@ -1,16 +1,4 @@
-<p align="center">
- 
-</p align="center">
 <img src="https://user-images.githubusercontent.com/4492972/121400146-9c6c8100-c92d-11eb-9b4f-4a4b32ebfd6f.png"/>
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/marcherdiego/marcherdiego"/> 
- <img src="https://badges.pufler.dev/years/marcherdiego"/>
- <img src="https://badges.pufler.dev/repos/marcherdiego"/>
- <img src="https://badges.pufler.dev/commits/monthly/marcherdiego" />
-
-</p>
 
 <p align="center">
 🚲 Lots of biking🚲 <br/> 
