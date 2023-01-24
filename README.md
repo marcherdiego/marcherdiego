@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28"/>
 </div>
 
-
+<!--
 <h2 align="center">📈 My Github Stats</h2>
  
 <br>
@@ -39,11 +39,11 @@
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=marcherdiego&theme=react-dark&custom_title=Contribution%20Graph">
 </div>
 <div align="center">
-    <img width="49%" src=https://github-readme-stats.vercel.app/api?username=marcherdiego&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=false&count_private=true&cache_seconds=7200><!-- stats profile -->
-    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=marcherdiego&theme=dark"><!-- current streak-->
-    <img width="38%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcherdiego&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages><!-- Top languages -->
+    <img width="49%" src=https://github-readme-stats.vercel.app/api?username=marcherdiego&show_icons=true&theme=dark&custom_title=My%20Github%20Profile&include_all_commits=false&count_private=true&cache_seconds=7200>
+    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=marcherdiego&theme=dark">
+    <img width="38%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcherdiego&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
 </div>
-
+-->
 <h2 align="center">👋 Let's talk!</h2>
   
 <div align="center">
