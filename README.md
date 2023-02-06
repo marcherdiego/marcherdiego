@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/4492972/121400146-9c6c8100-c92d-11eb-9b4f-4a4b32ebfd6f.png"/>
 
 <div align="center">
-  🚲 Lots of biking🚲 <br/> 
-  🛹 Little skateboarding🛹 <br/> 
-  🃏 Few card tricks🃏<br/> 
-  🥩 Huge amount of food🥩<br/> 
-  🥁 I know how to play drums🥁<br/> 
-  💻 Sometimes I program💻
+  🚲 Lots of biking 🚲 <br/> 
+  🛹 Little skateboarding 🛹 <br/> 
+  🃏 Few card tricks 🃏<br/> 
+  🥩 Huge amount of food 🥩<br/> 
+  🥁 I know how to play drums 🥁<br/> 
+  💻 Sometimes I develop things 💻
 </div>  
 
 <h2 align="center">🧑🏼‍💻Technology Stack</h2>
