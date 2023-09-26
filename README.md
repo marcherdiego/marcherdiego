@@ -58,5 +58,5 @@
   <a href="mailto:diego@marcher.com.uy"><img src="https://img.shields.io/badge/-diego@marcher.com.uy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego@marcher.com.uy"/></a>
   <a href="https://www.linkedin.com/in/diego-marcher/"><img src="https://img.shields.io/badge/-Diego Marcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-marcher/"/></a>
   <a href="https://twitter.com/MemphisDrums"><img src="https://img.shields.io/badge/-MemphisDrums-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MemphisDrums"/></a>
-  <a href="https://www.youtube.com/user/MemphisDrums"><img src="https://img.shields.io/badge/-MemphisDrums-CC0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MemphisDrums"/></a>
+  <a href="https://www.youtube.com/@DiegoMarcher"><img src="https://img.shields.io/badge/-DiegoMarcher-CC0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@DiegoMarcher"/></a>
 </div>
