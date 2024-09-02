@@ -8,7 +8,7 @@
   🚲 Lots of biking 🚲 <br/> 
   🛹 Little skateboarding 🛹 <br/> 
   🃏 Few card tricks 🃏<br/> 
-  🥩 Huge amount of food 🥩<br/> 
+  🥩 Huge amounts of food 🥩<br/> 
   🥁 I know how to play drums 🥁<br/> 
   💻 Sometimes I develop things 💻
 </div>  
