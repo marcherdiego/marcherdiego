@@ -10,7 +10,9 @@
   🃏 Few card tricks 🃏<br/> 
   🥩 Huge amounts of food 🥩<br/> 
   🥁 I know how to play drums 🥁<br/> 
-  💻 Sometimes I develop things 💻
+  🎸 I like to play guitar 🎸<br/> 
+  🎤 I enjoy singing 🎤<br/> 
+  💻 Sometimes I write code 💻
 </div>  
 
 <h2 align="center">🧑🏼‍💻Technology Stack</h2>
